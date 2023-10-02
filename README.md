@@ -7,9 +7,5 @@ All of my Code Wars answers from my daily code wars practice
 Tech used: JavaScript
 
 
-## Lessons Learned
-
-I learned how to think in code a little better 
-
 
 
