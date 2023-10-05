@@ -16,6 +16,6 @@ My current streak for daily challenges is: **2 days**.
 
 If you'd like to connect or just chat about coding, find me on:
 
-[Twitter] (https://twitter.com/RoReeceDev)
-[LinkedIn] (https://www.linkedin.com/in/roreecedev/)
+[Twitter](https://twitter.com/RoReeceDev)
+[LinkedIn](https://www.linkedin.com/in/roreecedev/)
 
