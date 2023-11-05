@@ -10,7 +10,7 @@ Tech used: JavaScript
 
 # Current Streak
 
-My current streak for daily challenges is: **1 Day(s)**. 
+My current streak for daily challenges is: **2 Day(s)**. 
 
 ### Let's Connect 
 
