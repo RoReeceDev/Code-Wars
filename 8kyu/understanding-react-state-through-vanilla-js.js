@@ -31,5 +31,5 @@ function greeting(name) {
         timeOfDay = "night"
     }
 
-    console.log(`Good ${timeOfDay}, ${name}`)
+    return (`Good ${timeOfDay}, ${name}`)
 }
